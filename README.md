@@ -1,0 +1,1 @@
+For this project, I implemented a structured perceptron which runs the Viterbi algorithm to perform part of speech tagging. Given a sentence, I can determine the part of speech of each of the words in the sentence with greater than 80% accuracy.
